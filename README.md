@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Media Company</title>
+    <title>OMR Media</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -40,7 +40,7 @@
 </head>
 <body>
     <header>
-        <h1>Your Media Company</h1>
+        <h1>OMR Media</h1>
     </header>
 
     <nav>
@@ -51,7 +51,7 @@
     </nav>
 
     <section id="home">
-        <h2>Welcome to Your Media Company</h2>
+        <h2>Welcome to OMR Media</h2>
         <p>Your source for top-notch media services.</p>
     </section>
 
@@ -71,7 +71,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2024 Your Media Company. All rights reserved.</p>
+        <p>&copy; 2024 OMR Media. All rights reserved.</p>
     </footer>
 </body>
 </html>
