@@ -13,23 +13,23 @@ body {
 
 /* Style the header */
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #black;
+    color: #red;
     padding: 1em;
     text-align: center;
 }
 
 /* Style the navigation bar */
 nav {
-    background-color: #444;
-    color: #fff;
+    background-color: #black;
+    color: #red;
     padding: 1em;
     text-align: center;
 }
 
 /* Style the navigation links */
 nav a {
-    color: #fff;
+    color: #black;
     text-decoration: none;
     margin: 0 10px;
 }
@@ -41,8 +41,8 @@ section {
 
 /* Style the footer */
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #red;
+    color: #black;
     padding: 1em;
     text-align: center;
 }
